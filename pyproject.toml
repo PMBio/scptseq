@@ -31,10 +31,10 @@ dependencies = [
 scptseq = "scptseq.main:main"
 
 [project.urls]
-Homepage = "https://github.com/hawkjo/scptseq"
-Documentation = "https://github.com/hawkjo/scptseq/tree/main/docs"
-Source = "https://github.com/hawkjo/scptseq"
-Issues = "https://github.com/hawkjo/scptseq/issues"
+Homepage = "https://github.com/PMBio/scptseq"
+Documentation = "https://github.com/PMBio/scptseq/tree/main/docs"
+Source = "https://github.com/PMBio/scptseq"
+Issues = "https://github.com/PMBio/scptseq/issues"
 
 [build-system]
 requires = ["setuptools>=61"]
