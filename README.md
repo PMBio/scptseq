@@ -28,13 +28,13 @@ encoded in the read name, spliced alignment — are described in [docs/inputs.md
 For the easiest installation, use pip:
 
 ```
-python -m pip install git+https://github.com/hawkjo/scptseq
+python -m pip install git+https://github.com/PMBio/scptseq
 ```
 
 To install from a clone, optionally into a virtual environment:
 
 ```
-git clone https://github.com/hawkjo/scptseq.git
+git clone https://github.com/PMBio/scptseq.git
 cd scptseq
 python -m venv envscptseq
 . envscptseq/bin/activate
