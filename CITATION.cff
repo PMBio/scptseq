@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "scptseq: software for Allele-resolved CRISPR editing and splicing outcomes with their transcriptional consequences in vivo"
+version: 1.0.0
+license: MIT
+type: software
+abstract: "scptseq calls CRISPR-induced mutations, including deletions, insertions, substitutions and splicing changes, per cell and per haplotype near targeted cut sites in scPT-seq data."
+authors:
+  - family-names: Hawkins
+    given-names: John A.
+    affiliation: European Molecular Biology Laboratory
+repository-code: "https://github.com/PMBio/scptseq"
